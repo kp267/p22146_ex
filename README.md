@@ -7,3 +7,6 @@
 -texts/: Αρχικά κείμενα
 -src/: Αρχεία κώδικα
 -report_nlp: Δομημένη αναφορά
+
+## Clone the repository:
+git clone https://github.com/kp267/p22146_ex
